@@ -90,9 +90,11 @@
 
 ## 12. Code Packages
 
-- [ ] Did you make your package name “Googleable”
+- [ ] Does your code adhere to the agreed Intellify code standards (pep8 for python, google standards for R, XXX for SQL)?
 - [ ] Did you write unit tests for your functions?
 - [ ] Did you write help files for all functions?
-- [ ] Did you write a vignette?
+- [ ] Did you write a vignette (if using R)?
+- [ ] Do functions have doc strings?
 - [ ] Did you try to reduce dependencies to actively maintained packages?
 - [ ] Have you eliminated all errors and warnings?
+- [ ] If relevant, did you make your package name “Googleable”
