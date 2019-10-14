@@ -3,7 +3,7 @@
 ## 1. Answering the Question
 
 - [ ] Did you specify the type of data analytic question (e.g. exploration, association causality) before touching the data?
-- [ ] Did you define the metric for success before beginning?
+- [x] Did you define the metric for success before beginning?
 - [ ] Did you understand the context for the question and the scientific or business application?
 - [ ] Did you record the experimental design?
 - [ ] Did you consider whether the question could be answered with the available data?
